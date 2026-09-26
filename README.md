@@ -1,12 +1,15 @@
 <p align="center">
-  <a href="https://github.com/aashirvad999">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=I'm" alt="I&#39;m" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Ash" alt="Typing headlines" />
 </p>
+
+### 🚀 About Me
+
+CS Undergrad | C++ · Python · SQL | DSA | Data Science &amp; Software QA
+
+🔭 &nbsp;I'm currently working on **DSA · Data Science &amp; Machine Learning · AI Driven Dev**  
+🌱 &nbsp;I'm currently learning **DSA · Core CS**  
+💬 &nbsp;Ask me about **DSA · DS · SQL · Software &amp; Web QA · JIRA · Hackathons**  
+⚡ &nbsp;Fun fact: **Typing at 120+ WPM, I spend a lot of time with my keyboard, just haven't found the right person to replace my keyboard with 🫠**
 
 ### 🛠️ Tech Stack
 
@@ -32,17 +35,23 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://monkeytype.com/profile/aashirvad999"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aashirvad999&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aashirvad999&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aashirvad999&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aashirvad999&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=aashirvad999&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=aashirvad999&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
