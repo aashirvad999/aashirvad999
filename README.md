@@ -39,6 +39,8 @@ CS Undergrad | C++ · Python · SQL | DSA | Data Science &amp; Software QA
 
 <p align="left">
   <a href="https://monkeytype.com/profile/aashirvad999"><img src="https://img.shields.io/badge/monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=e2b714" alt="monkeytype" /></a>
+<span style="font-variant: small-caps;">
+
 </p>
 
 
