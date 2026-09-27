@@ -7,8 +7,9 @@
 CS Undergrad | C++ · Python · SQL | DSA | Data Science &amp; Software QA
 
 🔭 &nbsp;I'm currently working on **DSA · Data Science &amp; Machine Learning · AI Driven Dev**  
-🌱 &nbsp;I'm currently learning **DSA · Core CS**  
+
 ⚡ &nbsp;Fun fact: **Typing at 120+ WPM, I spend a lot of time with my keyboard, just haven't found the right person to replace my keyboard with 🫠**
+
 
 ### 🛠️ Tech Stack
 
