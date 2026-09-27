@@ -35,11 +35,12 @@ CS Undergrad | C++ · Python · SQL | DSA | Data Science &amp; Software QA
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 Find Me On
 
 <p align="left">
-  <a href="https://monkeytype.com/profile/aashirvad999"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="monkeytype" /></a>
+  <a href="https://monkeytype.com/profile/aashirvad999"><img src="https://shields.io" alt="monkeytype" /></a>
 </p>
+
 
 ### 📊 GitHub Stats
 
